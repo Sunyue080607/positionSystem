@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="52b77ec2-736f-4d15-b5ac-090884e29c76" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/client/src/assets/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/AddLocation.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
@@ -12,7 +16,14 @@
       <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/views/About.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -73,7 +84,8 @@
       <workItem from="1582526282663" duration="233000" />
       <workItem from="1582528403312" duration="604000" />
       <workItem from="1582557571016" duration="2639000" />
-      <workItem from="1582609563186" duration="750000" />
+      <workItem from="1582609563186" duration="1266000" />
+      <workItem from="1582612659808" duration="8576000" />
     </task>
     <servers />
   </component>
@@ -81,6 +93,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582641024065">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="462" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.792@0.23.1440.792" timestamp="1582641024065" />
+    <state x="419" y="74" key="#login.js" timestamp="1582656999743">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="419" y="74" key="#login.js/0.23.1440.792@0.23.1440.792" timestamp="1582656999743" />
     <state width="1379" height="188" key="GridCell.Tab.0.bottom" timestamp="1582462839238">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
