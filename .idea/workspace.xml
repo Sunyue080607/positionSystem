@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52b77ec2-736f-4d15-b5ac-090884e29c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1YCP9PiUxMw6dlGiFOIZaQFKbZu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.login.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/app.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/login.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.login.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52b77ec2-736f-4d15-b5ac-090884e29c76" name="Default Changelist" comment="" />
+      <created>1582443450295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582443450295</updated>
+      <workItem from="1582443451451" duration="6625000" />
+      <workItem from="1582468019324" duration="3260000" />
+      <workItem from="1582526282663" duration="233000" />
+      <workItem from="1582528403312" duration="604000" />
+      <workItem from="1582557571016" duration="2639000" />
+      <workItem from="1582609563186" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="188" key="GridCell.Tab.0.bottom" timestamp="1582462839238">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1379" height="188" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1582462839238" />
+    <state width="1379" height="188" key="GridCell.Tab.0.center" timestamp="1582462839237">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1379" height="188" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1582462839237" />
+    <state width="1379" height="188" key="GridCell.Tab.0.left" timestamp="1582462839236">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1379" height="188" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1582462839236" />
+    <state width="1379" height="188" key="GridCell.Tab.0.right" timestamp="1582462839238">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1379" height="188" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1582462839238" />
+  </component>
+</project>
