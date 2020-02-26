@@ -7,8 +7,12 @@ const bodyParser=require('body-parser')
 //运行跨域
 app.use(cors())
 app.use(bodyParser())
+
 //引入路由
 const loginRouter=require('./routes/login');
+const addLocation=require('./routes/addLocation');
+
+app.use('/addLocation',addLocation)
 app.use('/',loginRouter)
 
 app.use('/home',(req,res,next)=>{
