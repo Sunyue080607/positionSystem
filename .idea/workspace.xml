@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b77ec2-736f-4d15-b5ac-090884e29c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/HFUT.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/assets/global.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/AddLocation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/ShowLocation.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/ShowMap.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/addLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/accountManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/passwordManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/db/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -21,6 +26,10 @@
       <change beforePath="$PROJECT_DIR$/client/src/views/About.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/addLocation.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YCP9PiUxMw6dlGiFOIZaQFKbZu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,8 +62,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Node.js.login.js">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.config.js">
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/app.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <configuration name="config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/config.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <configuration name="knex.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/tools/knex.js" working-dir="$PROJECT_DIR$/server/tools">
       <method v="2" />
     </configuration>
     <configuration name="login.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/login.js" working-dir="$PROJECT_DIR$/server">
@@ -62,6 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.config.js" />
+        <item itemvalue="Node.js.knex.js" />
         <item itemvalue="Node.js.login.js" />
         <item itemvalue="Node.js.app.js" />
       </list>
@@ -84,7 +106,26 @@
       <workItem from="1582557571016" duration="2639000" />
       <workItem from="1582609563186" duration="1266000" />
       <workItem from="1582612659808" duration="11561000" />
-      <workItem from="1582724245893" duration="524000" />
+      <workItem from="1582724245893" duration="694000" />
+      <workItem from="1582770066275" duration="420000" />
+      <workItem from="1583587305918" duration="597000" />
+      <workItem from="1583666589762" duration="185000" />
+      <workItem from="1583670346859" duration="1217000" />
+      <workItem from="1584039102465" duration="161000" />
+      <workItem from="1584201320641" duration="1000" />
+      <workItem from="1584344046356" duration="1231000" />
+      <workItem from="1584347106459" duration="16910000" />
+      <workItem from="1584445643727" duration="1747000" />
+      <workItem from="1584496765008" duration="2737000" />
+      <workItem from="1584609536836" duration="132000" />
+      <workItem from="1584976728526" duration="18283000" />
+      <workItem from="1585060831799" duration="16765000" />
+      <workItem from="1585489524524" duration="1463000" />
+      <workItem from="1585577636239" duration="114000" />
+      <workItem from="1585738816961" duration="109000" />
+      <workItem from="1585762019287" duration="236000" />
+      <workItem from="1586156074289" duration="371000" />
+      <workItem from="1586239933585" duration="506000" />
     </task>
     <servers />
   </component>
@@ -92,29 +133,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582641024065">
-      <screen x="0" y="23" width="1440" height="792" />
+    <state x="462" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585064205100">
+      <screen x="0" y="23" width="1440" height="788" />
     </state>
+    <state x="462" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.788@0.23.1440.788" timestamp="1585064205100" />
     <state x="462" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.792@0.23.1440.792" timestamp="1582641024065" />
     <state x="419" y="74" key="#login.js" timestamp="1582656999743">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="419" y="74" key="#login.js/0.23.1440.792@0.23.1440.792" timestamp="1582656999743" />
-    <state width="1379" height="188" key="GridCell.Tab.0.bottom" timestamp="1582462839238">
+    <state width="1379" height="188" key="GridCell.Tab.0.bottom" timestamp="1584367795055">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
-    <state width="1379" height="188" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1582462839238" />
-    <state width="1379" height="188" key="GridCell.Tab.0.center" timestamp="1582462839237">
+    <state width="1379" height="188" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1584367795055" />
+    <state width="1379" height="188" key="GridCell.Tab.0.center" timestamp="1584367795054">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
-    <state width="1379" height="188" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1582462839237" />
-    <state width="1379" height="188" key="GridCell.Tab.0.left" timestamp="1582462839236">
+    <state width="1379" height="188" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1584367795054" />
+    <state width="1379" height="188" key="GridCell.Tab.0.left" timestamp="1584367795053">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
-    <state width="1379" height="188" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1582462839236" />
-    <state width="1379" height="188" key="GridCell.Tab.0.right" timestamp="1582462839238">
+    <state width="1379" height="188" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1584367795053" />
+    <state width="1379" height="188" key="GridCell.Tab.0.right" timestamp="1584367795054">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
-    <state width="1379" height="188" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1582462839238" />
+    <state width="1379" height="188" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1584367795054" />
   </component>
 </project>
