@@ -7,7 +7,6 @@ function connect() {
         user:config.user,
         password:config.password,
         database:config.database,
-        multipleStatements:true
     })
 }
 
@@ -31,6 +30,8 @@ function querySql(sql) {
 }
 
 
+
+
 module.exports={
-    querySql
+    querySql,
 }

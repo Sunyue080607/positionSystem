@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b77ec2-736f-4d15-b5ac-090884e29c76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/assets/HFUT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/HFUT.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/assets/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/global/global.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/timg.jpeg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/AddLocation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/ShowLocation.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/ShowMap.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/accountManager.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/views/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/passwordManager.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/db/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/db/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -26,10 +23,10 @@
       <change beforePath="$PROJECT_DIR$/client/src/views/About.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/db/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/db/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/addLocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +38,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="1YCP9PiUxMw6dlGiFOIZaQFKbZu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -126,6 +123,11 @@
       <workItem from="1585762019287" duration="236000" />
       <workItem from="1586156074289" duration="371000" />
       <workItem from="1586239933585" duration="506000" />
+      <workItem from="1586525425197" duration="1049000" />
+      <workItem from="1586760398259" duration="7483000" />
+      <workItem from="1586778966294" duration="215000" />
+      <workItem from="1587279473950" duration="22045000" />
+      <workItem from="1587565995250" duration="27085000" />
     </task>
     <servers />
   </component>
@@ -133,9 +135,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585064205100">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="462" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587648475523">
+      <screen x="0" y="23" width="1440" height="784" />
     </state>
+    <state x="462" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.784@0.23.1440.784" timestamp="1587648475523" />
     <state x="462" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.788@0.23.1440.788" timestamp="1585064205100" />
     <state x="462" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.792@0.23.1440.792" timestamp="1582641024065" />
     <state x="419" y="74" key="#login.js" timestamp="1582656999743">
@@ -158,5 +161,25 @@
       <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state width="1379" height="188" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1584367795054" />
+    <state x="388" y="131" width="670" height="676" key="search.everywhere.popup" timestamp="1587280318089">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="388" y="131" width="670" height="676" key="search.everywhere.popup/0.23.1440.784@0.23.1440.784" timestamp="1587280318089" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/views/login.vue</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/views/login.vue</url>
+          <line>73</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
